@@ -1,0 +1,18 @@
+.noc-data {
+    font-family: "Comic Sans MS", cursive;
+    margin-left: 15vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 60vh;
+    background: inherit;
+    color: #636262;
+}
+
+.table{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.noc-details{
+  display: flex;
+}
